@@ -35,3 +35,5 @@ root.geometry("300x100")
 b1 = Button(root, text="Organizar", command=escolher_diretorio, font = "Verdana 12 bold", height = 2, width = 10)
 b1.pack()
 root.mainloop()
+
+#commit teste
